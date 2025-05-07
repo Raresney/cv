@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\bighi\source\repos\Proiect_POO\Proiect_POO\Proiect_POO\Source.cpp(23,52): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+C:\Users\bighi\source\repos\Proiect_POO\Proiect_POO\Proiect_POO\Source.cpp(24,52): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  Proiect_POO.vcxproj -> C:\Users\bighi\source\repos\Proiect_POO\Proiect_POO\x64\Debug\Proiect_POO.exe
